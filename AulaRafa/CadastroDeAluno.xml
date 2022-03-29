@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alunos>
+    <aluno id="1">
+        <Nome>dennis</Nome>
+        <CPF>1</CPF>
+        <Curso>1</Curso>
+        <Endereco>
+            <Rua>1</Rua>
+            <Numero>1</Numero>
+            <Bairro>1</Bairro>
+            <Cidade>1</Cidade>
+            <Estado>1</Estado>
+            <CEP>1</CEP>
+        </Endereco>
+    </aluno>
+</alunos>
